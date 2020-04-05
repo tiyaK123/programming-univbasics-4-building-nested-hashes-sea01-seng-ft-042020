@@ -38,6 +38,10 @@ hash = {:railroads => {:pieces => 4, :rent_in_dollars => {:one_piece_owned => 25
 hash[:railroads][:names][:reading_railroad][:mortgage_value]= 100
 hash[:railroads][:names][:pennsylvania_railroad][:mortgage_value]= 200
 hash[:railroads][:names][:b_and_o_railroad][:mortgage_value]= 400
+<<<<<<< HEAD
 hash[:railroads][:names][:shortline_railroad][:mortgage_value]= 800
+=======
+hash[:railroads][:names][:b_and_o_railroad][:mortgage_value]= 400
+>>>>>>> 39537bf522651143eaff90de785ca4d708b35e43
 hash 
 end
